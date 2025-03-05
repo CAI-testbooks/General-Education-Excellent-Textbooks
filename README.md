@@ -6,20 +6,20 @@
 
 | 中文章节  |  |
 | ------------ | ------------ |
-| 第一章 绪论 | [slides](/docs/chapter1.pdf) |
-| 第二章 深度学习基础  | [slides](./docs/chapter2.pdf) |
-| 第三章 自然语言处理     | [slides](./docs/chapter3.pdf) |
-| 第四章 大模型网络结构   | [slides](./docs/chapter4.pdf)|
-| 第五章 大模型训练与优化   | [slides](./docs/chapter5.pdf)|
-| 第六章 大模型微调   |[slides](./docs/chapter6.pdf) |
-| 第七章 大模型提示工程 | [slides](./docs/chapter7.pdf) |
-| 第八章 高效大模型策略  | [slides](./docs/chapter8.pdf) |
-| 第九章 单模态通用大模型 | [slides](./docs/chapter9.pdf) |
-| 第十章 多模态通用大模型  | [slides](./docs/chapter10.pdf) |
-| 第十一章 大模型评测           | [slides](./docs/chapter11.pdf) |
-| 第十二章 大模型主要应用场景  | [slides](./docs/chapter12.pdf)|
-| 第十三章 基于大模型的智能软件研发 | [slides](./docs/chapter13.pdf) |
-| 第十四章 基于大模型的航空航天装备制造                   | [slides](./docs/chapter14.pdf) |
+| 第一章 绪论 | [slides](/docs/chap1.pdf) |
+| 第二章 深度学习基础  | [slides](./docs/chap2.pdf) |
+| 第三章 自然语言处理     | [slides](./docs/chap3.pdf) |
+| 第四章 大模型网络结构   | [slides](./docs/chap4.pdf)|
+| 第五章 大模型训练与优化   | [slides](./docs/chap5.pdf)|
+| 第六章 大模型微调   |[slides](./docs/chap6.pdf) |
+| 第七章 大模型提示工程 | [slides](./docs/chap7.pdf) |
+| 第八章 高效大模型策略  | [slides](./docs/chap8.pdf) |
+| 第九章 单模态通用大模型 | [slides](./docs/chap9.pdf) |
+| 第十章 多模态通用大模型  | [slides](./docs/chap10.pdf) |
+| 第十一章 大模型评测           | [slides](./docs/chap11.pdf) |
+| 第十二章 大模型主要应用场景  | [slides](./docs/chap12.pdf)|
+| 第十三章 基于大模型的智能软件研发 | [slides](./docs/chap14.pdf) |
+| 第十四章 基于大模型的航空航天装备制造                   | [slides](./docs/chap14.pdf) |
 
 
 
