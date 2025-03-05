@@ -1,6 +1,8 @@
 # 大模型原理与技术
 ---
 
+#课程简介
+[大模型原理与技术](./docs/intro/课程安排.pdf)
 
 # Content
 
@@ -30,8 +32,9 @@
 | 实验一 | [tutorial](./docs/tutorial/实验课1.pdf), code |
 | 实验二  | [tutorial](./docs/tutorial/实验课2.pdf), code|
 
+尚未上传的实验会在后续陆续上传。
 
-尚未上传的章节会在后续陆续上传。
+写作报告模板：[pdf](./docs/intro/写作报告模板.pdf)
 
 # Lecture
 | 企业讲座 | |
