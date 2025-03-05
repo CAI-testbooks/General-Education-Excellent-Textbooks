@@ -6,7 +6,7 @@
 
 | 中文章节  |  |
 | ------------ | ------------ |
-| 第一章 绪论 | [slides](./docs/chapter1.pdf) |
+| 第一章 绪论 | [slides](docs/chapter1.pdf) |
 | 第二章 深度学习基础  | [slides](./docs/chapter2.pdf) |
 | 第三章 自然语言处理     | [slides](./docs/chapter3.pdf) |
 | 第四章 大模型网络结构   | [slides](./docs/chapter4.pdf)|
