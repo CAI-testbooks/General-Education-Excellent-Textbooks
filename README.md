@@ -35,7 +35,7 @@
 | :---: | :--- | :---: | :---: |
 | 01 | 实验一：基础环境配置与API接口调用 | [📖 View](./docs/tutorial/实验课1.pdf) | [💻 Link](./code/tutorial1) |
 | 02 | 实验二：Transformer结构理解 | [📖 View](./docs/tutorial/实验课2.pdf) | [💻 Link](./code/tutorial2) |
-| 03 | 实验三：模型训练基础教学 | [📖 待上传](#) | [💻 Link](./code/tutorial3) |
+| 03 | 实验三：模型训练基础教学 | [📖 View](./docs/tutorial/实验课3.pdf) | [💻 Link](./code/tutorial3) |
 | 04 | 实验四：模型微调基础教学 | [📖 待上传](#) | [💻 Link](./code/tutorial4) |
 
 > *注：后续实验内容将持续更新，敬请关注。*
